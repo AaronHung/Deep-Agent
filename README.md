@@ -8,10 +8,14 @@ Welcome to **Deep-Agent - an AI Agent Lab**! 🚀 This repository is dedicated t
 
 ## 🌟 Features / 主要特性
 
+(English)
+
 - 🧠 **Concepts & Theories** - Understanding the fundamentals of AI Agents.
 - 🔧 **Implementations** - Hands-on coding examples and projects.
 - 🏗 **Frameworks & Tools** - Exploration of popular AI Agent frameworks (e.g., LangChain, AutoGPT, BabyAGI).
 - 🌍 **Real-world Applications** - AI Agents in automation, research, and more.
+
+(Chinese)
 
 - 🧠 **概念與理論** - 深入理解 AI 智能體的基本原理。
 - 🔧 **實踐與代碼** - 提供具體的程式範例和項目實作。
@@ -22,12 +26,12 @@ Welcome to **Deep-Agent - an AI Agent Lab**! 🚀 This repository is dedicated t
 
 ## 📂 Project Structure / 項目結構
 
-📦 AI-Agent-Lab
-┣ 📂 concepts # 理論與概念
-┣ 📂 implementations # 具體實踐與代碼
-┣ 📂 frameworks # 框架與工具
-┣ 📂 applications # 實際應用
-┣ 📜 README.md # 倉庫介紹
+📦 AI-Agent-Lab  
+┣ 📂 concepts # 理論與概念  
+┣ 📂 implementations # 具體實踐與代碼  
+┣ 📂 frameworks # 框架與工具  
+┣ 📂 applications # 實際應用  
+┣ 📜 README.md # 倉庫介紹  
 ┣ 📜 LICENSE # 許可證
 
 ---
@@ -46,11 +50,14 @@ Welcome to **Deep-Agent - an AI Agent Lab**! 🚀 This repository is dedicated t
 3. Explore the contents and start building AI Agents!
 
 4. Clone this Reop - 克隆此倉庫：
-   ! git clone https://github.com/your-username/Deep-Agent.git
 
-5. 安裝所需的依賴（如果有）。
+```bash
+git clone https://github.com/your-username/Deep-Agent.git
+```
 
-6. 開始探索 AI 智能體的世界！
+5. Install Dependencies (if necessary) - 安裝所需的依賴（如果有）。
+
+6. Start Exploring AI Agent - 開始探索 AI 智能體的世界！
 
 ---
 
@@ -80,7 +87,4 @@ This project is licensed under the MIT License.
 
 本項目基於 MIT 許可證開源。
 
-```
-
 ---
-```
